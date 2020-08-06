@@ -6,3 +6,8 @@
 4. `chmod +x mysql.sh`
 5. `./mysql.sh -i` to create a MySql container
 6. `./mysql.sh -r` to remove the MySql container.
+
+### Install MySql Workbench
+
+1. `chmod +x workbenchInstall1804.sh`
+2. `./workbenchinstall1804.sh`
